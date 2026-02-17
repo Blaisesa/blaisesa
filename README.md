@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently focused on developing my skills as a software engineer, with a growing passion for building useful, clean, and impactful projects.<br><br>🚀 What I’m Working On<br><br>Strengthening my full-stack development skill set<br><br>Learning and experimenting with HTML, CSS, JavaScript, and Python<br><br>Diving deeper into backend development with Django<br><br>Exploring collaborative projects to improve my hard skills and help others<br><br>🤝 What I’m Looking For<br><br>I’m always open to collaborating on projects whether it’s contributing to open-source, building tools, or teaming up for something fun and challenging.<br><br>☕ Fun Fact<br><br>I’m a proud coffeeholic fueling my code one cup at a time.
 
 
