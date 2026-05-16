@@ -1,4 +1,3 @@
-# About Me:
 # Hey, I'm Blaise 👋
 
 Full-stack developer and digital consultant based in Waterford, Ireland.
