@@ -1,5 +1,24 @@
 # About Me:
-I’m currently focused on developing my skills as a software engineer, with a growing passion for building useful, clean, and impactful projects.<br><br>🚀 What I’m Working On<br><br>Strengthening my full-stack development skill set<br><br>Learning and experimenting with HTML, CSS, JavaScript, and Python<br><br>Diving deeper into backend development with Django<br><br>Exploring collaborative projects to improve my hard skills and help others<br><br>🤝 What I’m Looking For<br><br>I’m always open to collaborating on projects whether it’s contributing to open-source, building tools, or teaming up for something fun and challenging.<br><br>☕ Fun Fact<br><br>I’m a proud coffeeholic fueling my code one cup at a time.
+# Hey, I'm Blaise 👋
+
+Full-stack developer and digital consultant based in Waterford, Ireland.
+Currently building towards AI engineering — completing the IBM AI 
+Engineering Professional Certificate and working on real-world projects.
+
+## 🔨 What I'm building
+- **Modular Steel Homes** — live 3D garden room configurator (Three.js, WordPress, PHP)
+- **Stock AI Predictor** — ML model for stock price direction (Python, scikit-learn) — coming soon
+
+## 🌱 Currently learning
+- Machine learning and AI engineering (IBM Professional Certificate)
+- Data science with Python, scikit-learn, TensorFlow
+
+## 💼 Background
+5 years as a digital consultant — I build things and I understand 
+the business context behind them.
+
+## 📫 Reach me
+blaise.smyka@gmail.com
 
 
 ## 🌐 Socials:
