@@ -1,8 +1,12 @@
 # Hey, I'm Blaise 👋
 
-Full-stack developer and digital consultant based in Waterford, Ireland.
-Currently building towards AI engineering — completing the IBM AI 
-Engineering Professional Certificate and working on real-world projects.
+Software Engineer transitioning from a five-year career as a Lead Personal Trainer and Manager, bringing a
+unique blend of technical skill and high-level interpersonal competency.
+
+My experience as a Lead Personal Trainer directly translates to proficiency in Agile planning, Stakeholder
+Communication, and user-centric problem-solving. I am driven to write clean code and contribute
+immediately to a collaborative team. Dedicated to clean code, documentation, and continuous project
+improvement. — completing the IBM AI Engineering Professional Certificate and working on real-world projects.
 
 ## 🔨 What I'm building
 - **Modular Steel Homes** — live 3D garden room configurator (Three.js, WordPress, PHP)
