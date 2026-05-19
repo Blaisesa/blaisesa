@@ -8,9 +8,8 @@ Communication, and user-centric problem-solving. I am driven to write clean code
 immediately to a collaborative team. Dedicated to clean code, documentation, and continuous project
 improvement. — completing the IBM AI Engineering Professional Certificate and working on real-world projects.
 
-## 🔨 What I'm building
+## 🔨 What I'm currently building
 - **Modular Steel Homes** — live 3D garden room configurator (Three.js, WordPress, PHP)
-- **Stock AI Predictor** — ML model for stock price direction (Python, scikit-learn) — coming soon
 
 ## 🌱 Currently learning
 - Machine learning and AI engineering (IBM Professional Certificate)
