@@ -14,10 +14,7 @@ improvement. — completing the IBM AI Engineering Professional Certificate and 
 ## 🌱 Currently learning
 - Machine learning and AI engineering (IBM Professional Certificate)
 - Data science with Python, scikit-learn, TensorFlow
-
-## 💼 Background
-5 years as a digital consultant — I build things and I understand 
-the business context behind them.
+- Fullstack development
 
 ## 📫 Reach me
 blaise.smyka@gmail.com
