@@ -12,10 +12,7 @@ I am actively upskilling in Machine Learning and AI engineering fundamentals in 
 
 ### Modular Steel Homes Configurator
 * **Immersive 3D Tool:** Developing an interactive, live 3D garden room configurator to modernize client UX for a local business. Built using **Three.js**, optimizing asset compression pipelines and rendering loops for clean integration within a **WordPress/PHP** environment.
-
-### Flight Price Predictor Engine - Currently planning
-* **Machine Learning Utility:** Moving past generic course templates to engineer a custom binary classification tool based on personal travel use-cases. Built locally in **VS Code** using **Scikit-Learn** and **Pandas**, specifically optimizing feature selection for high **F1-score tracking** on highly imbalanced data streams, wrapped as a standalone **FastAPI** service.
-
+  
 ---
 
 ## Tech Stack & Engineering Tools
